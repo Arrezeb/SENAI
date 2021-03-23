@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Pedro Ivo\Documents\ESTUDOS\SENAI\Windows Forms\atvWindowsForms2\WindowsForms\Form3.cs" Link="Form3.cs" />
+  </ItemGroup>
+
+</Project>
